@@ -12,7 +12,7 @@ printf("Sum=%d",sum);
 getch();
 }
 digvijay is mighty ass!!!!!
-digvijay l..d fakir!!!!
+Dhruv Seth is l..d fakir!!!!
 This is a end of the program!!!!!!!
 This is DV's Repository...
 This is a new update for the file!!!!
