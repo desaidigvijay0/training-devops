@@ -1,9 +1,16 @@
-BObinclude<stdio.h>
+include<stdio.h>
 inlcude<conio.h>
+
 
 void main()
 {
 clrscr();
-printf("Hello World!!");
+int a=10;b=12,sum;
+printf("Hello Git version control!!");
+sum=a+b;
+printf("Sum=%d",sum);
 getch();
 }
+
+
+ 
