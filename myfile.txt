@@ -6,7 +6,7 @@ void main()
 {
 clrscr();
 int a=10;b=12,sum;
-printf("Hello D L..E Y version control!!");
+printf("Hello Git version control!!");
 sum=a+b;
 printf("Sum=%d",sum);
 getch();
