@@ -11,7 +11,7 @@ sum=a+b;
 printf("Sum=%d",sum);
 getch();
 }
-this is end of digvijay's life!!!
+this is end of RKO's life!!!
 This is a end of the program!!!!!!!
 This is DV's Repository...
 This is a new update for the file!!!!
