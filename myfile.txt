@@ -11,7 +11,7 @@ sum=a+b;
 printf("Sum=%d",sum);
 getch();
 }
-digvijay is mighty ass!!!!!
+digvijay dont abuse!!!!
 Dhruv Seth is l..d fakir!!!!
 This is a end of the program!!!!!!!
 This is DV's Repository...
@@ -21,9 +21,4 @@ Just read the code Yashaswini Deora!!!
 check the spelling
 yashi
 this is my file
-<<<<<<< HEAD
-
-this is the concept of merging
-=======
 wait for your turn
->>>>>>> 76678322ee5a2dd87696e53d612f0c519c541f39
